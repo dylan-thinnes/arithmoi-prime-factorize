@@ -11,4 +11,4 @@ Input numbers come in on stdin, one per line, and prime factors are output accor
 2 2 5 5
 ```
 
-This allows it to behave similarly to my [msieve wrapper](https://github.com/dylan-thinnes/msieve-wrapper).
+This allows it to behave similarly to my [msieve wrapper](https://github.com/dylan-thinnes/simple-msieve).
